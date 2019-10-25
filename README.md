@@ -1,6 +1,6 @@
 # travel
 
-> vue first
+> A Vue.js project
 
 ## Build Setup
 
